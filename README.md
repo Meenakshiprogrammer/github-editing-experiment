@@ -1,2 +1,2 @@
-# github-editing-experiment
-github-editing-experiment-4
+## Experiment 2.1
+This repository is created to learn GitHub editing and workflows.
